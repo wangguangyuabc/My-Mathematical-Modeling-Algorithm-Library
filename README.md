@@ -1,0 +1,2 @@
+个人代码库，未经本人允许，不得用于商业，不然生了儿子没屁眼，但是可以下载下来学习。我的邮箱是wgy2120716553@gmail.com(不常用),2120716553@qq.com(常用)。如果觉得我写的代码对你有帮助或有疑问，欢迎与我交流学习。
+Personal code libraries cannot be used for commercial purposes without the permission of the individual, otherwise it will be like having a son without a bottom, but you can be downloaded for learning purposes. My email is wgy2120716553@gmail.com (not often used), 2120716553@qq.com (often used). If you find my code helpful or have any questions, feel free to communicate with me for learning.
