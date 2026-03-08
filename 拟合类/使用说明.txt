@@ -1,0 +1,1 @@
+cft_app.m是用matlab自带的cftool来进行拟合的，createFit.m是cftool自动生成的代码
